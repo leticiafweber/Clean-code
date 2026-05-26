@@ -2,6 +2,7 @@
 Durante as aulas de Algoritmo e Programação com o Professor Eduardo Pedro Meneghel, estudamos o livro Código Limpo (Clean code), de Robert C. Martin, um livro de extrema importância para a área de Sistemas. Com ele, aprendemos que pequenos detalhes fazem grande diferença na qualidade de um Software. O capítulo dois, quatro e seis abordam temas fundamentais para quem deseja trabalhar com códigos mais organizados e de fácil entendimento.
 
 O capítulo dois “Nomes Significativos” mostra a importância de escolher nomes claros para as variáveis, métodos e classes, tornando o código mais compreensível para qualquer pessoa que leia.
+
 Já o capítulo quatro “Comentários” fala que comentários não devem servir para justificar códigos confusos. O ideal é que o próprio código seja claro o suficiente para explicar sua função e objetivo. Comentários excessivos ou desnecessários podem dificultar ainda mais a manutenção do sistema.
 
 Por fim, o capítulo cinco “Formatação” reforça a importância da organização visual do código. Ela comunica a estrutura e a prioridade das informações. Um estilo consistente é um dos maiores indicadores de baixa incidência de bugs e diferencia a excelência da mera competência. 
